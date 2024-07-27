@@ -115,7 +115,7 @@
                                             </a>
                                         </li>
                                         <li class="sub-menu-item">
-                                            <a href="create_role.php" class="">
+                                            <a href="add_role.php" class="">
                                                 <div class="text">Create role</div>
                                             </a>
                                         </li>
@@ -128,12 +128,12 @@
                                     </a>
                                     <ul class="sub-menu">
                                         <li class="sub-menu-item">
-                                            <a href="" class="">
+                                            <a href="discount.php" class="">
                                                 <div class="text">All Discount Code</div>
                                             </a>
                                         </li>
                                         <li class="sub-menu-item">
-                                            <a href="" class="">
+                                            <a href="add_discount.php" class="">
                                                 <div class="text">Create Discount Code</div>
                                             </a>
                                         </li>
@@ -146,12 +146,12 @@
                                     </a>
                                     <ul class="sub-menu">
                                         <li class="sub-menu-item">
-                                            <a href="" class="">
+                                            <a href="promo.php" class="">
                                                 <div class="text">All Promo Code</div>
                                             </a>
                                         </li>
                                         <li class="sub-menu-item">
-                                            <a href="" class="">
+                                            <a href="add_promo.php" class="">
                                                 <div class="text">Create Promo Code</div>
                                             </a>
                                         </li>
@@ -164,12 +164,12 @@
                                     </a>
                                     <ul class="sub-menu">
                                         <li class="sub-menu-item">
-                                            <a href="" class="">
+                                            <a href="voucher.php" class="">
                                                 <div class="text">All Voucher Code</div>
                                             </a>
                                         </li>
                                         <li class="sub-menu-item">
-                                            <a href="" class="">
+                                            <a href="add_voucher.php" class="">
                                                 <div class="text">Create Voucher Code</div>
                                             </a>
                                         </li>
@@ -182,12 +182,12 @@
                                     </a>
                                     <ul class="sub-menu">
                                         <li class="sub-menu-item">
-                                            <a href="" class="">
+                                            <a href="pick_up.php" class="">
                                                 <div class="text">All Pick Up Station </div>
                                             </a>
                                         </li>
                                         <li class="sub-menu-item">
-                                            <a href="" class="">
+                                            <a href="add_pick_up.php" class="">
                                                 <div class="text">Create Pick Up Station</div>
                                             </a>
                                         </li>
@@ -202,15 +202,16 @@
                                     </a>
                                     <ul class="sub-menu">
                                         <li class="sub-menu-item">
-                                            <a href="add-product.html" class="">
-                                                <div class="text">Add Product</div>
+                                            <a href="product-list.php" class="">
+                                                <div class="text">Inventory List</div>
                                             </a>
                                         </li>
                                         <li class="sub-menu-item">
-                                            <a href="product-list.html" class="">
-                                                <div class="text">Product List</div>
+                                            <a href="add-product.php" class="">
+                                                <div class="text">Add Product</div>
                                             </a>
                                         </li>
+                                       
                                     </ul>
                                 </li>
                                 <li class="menu-item has-children">
