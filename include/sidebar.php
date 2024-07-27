@@ -221,17 +221,17 @@
                                     </a>
                                     <ul class="sub-menu">
                                         <li class="sub-menu-item">
-                                            <a href="oder-list.html" class="">
+                                            <a href="oder-list.php" class="">
                                                 <div class="text">Order list</div>
                                             </a>
                                         </li>
                                         <li class="sub-menu-item">
-                                            <a href="oder-detail.html" class="">
+                                            <a href="oder-detail.php" class="">
                                                 <div class="text">Order detail</div>
                                             </a>
                                         </li>
                                         <li class="sub-menu-item">
-                                            <a href="oder-tracking.html" class="">
+                                            <a href="oder-tracking.php" class="">
                                                 <div class="text">Order tracking</div>
                                             </a>
                                         </li>
@@ -244,7 +244,7 @@
                                     </a>
                                     <ul class="sub-menu">
                                         <li class="sub-menu-item">
-                                            <a href="oder-list.html" class="">
+                                            <a href="oder-list.php" class="">
                                                 <div class="text">Order list</div>
                                             </a>
                                         </li>
