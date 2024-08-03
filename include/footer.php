@@ -1,4 +1,7 @@
 <!-- Javascript -->
+    <script src="https://unpkg.com/vue@3"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10/dist/sweetalert2.all.min.js"></script>   
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/bootstrap-select.min.js"></script>
@@ -15,3 +18,5 @@
     <script src="assets/js/switcher.js"></script>
     <script src="assets/js/theme-settings.js"></script>
     <script src="assets/js/main.js"></script>
+    <script src="scripts/general_functions.js"></script>
+    <script src="vuejs/admin.js"></script>
